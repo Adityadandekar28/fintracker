@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "Production-ready fintech expense tracker with encrypted data storage, budget alerts, category analytics, smart monthly reports, and customizable persona presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
